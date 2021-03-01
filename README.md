@@ -1,6 +1,16 @@
-# Livro de receitas:book:
+# Revisão C# Bootcamp Localiza:book:
 
-livro livro receitas,livro
 
-- strognoff frango
-- feijão
+
+Revisão de alguns conteúdos abordados no bootcamp.
+
+* Classes
+
+* Objetos
+
+* Exceções
+
+* Controladores Booleanos
+
+  
+
