@@ -12,5 +12,7 @@ Revisão de alguns conteúdos abordados no bootcamp.
 
 * Controladores Booleanos
 
+* Estruturas de Repetição
+
   
 
